@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.2.14">
   <diagram name="Page-1" id="0yerQAa0baYgFGr-IkGp">
-    <mxGraphModel dx="1795" dy="1087" grid="1" gridSize="39.37" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1339" pageHeight="1181" math="0" shadow="0">
+    <mxGraphModel dx="2071" dy="1254" grid="1" gridSize="39.37" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1733" pageHeight="1181" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,6 +93,27 @@
         </mxCell>
         <mxCell id="m4RewTG6IQld1wpyNN1v-31" value="(B / P / W)&lt;div&gt;NOISE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="582.6699999999998" y="322.83" width="118.11" height="125.984" as="geometry" />
+        </mxCell>
+        <mxCell id="m4RewTG6IQld1wpyNN1v-32" value="GLIDE" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="39.37000000000002" y="653.54" width="141.732" height="141.732" as="geometry" />
+        </mxCell>
+        <mxCell id="m4RewTG6IQld1wpyNN1v-33" value="(POLY / MONO)&lt;div&gt;MODE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="181.0999999999998" y="661.4099999999999" width="118.11" height="125.984" as="geometry" />
+        </mxCell>
+        <mxCell id="m4RewTG6IQld1wpyNN1v-34" value="PW" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="73.85000000000002" y="795.27" width="141.73" height="291.34" as="geometry" />
+        </mxCell>
+        <mxCell id="m4RewTG6IQld1wpyNN1v-35" value="MW" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="203.77" y="795.27" width="141.73" height="291.34" as="geometry" />
+        </mxCell>
+        <mxCell id="m4RewTG6IQld1wpyNN1v-36" value="OCTAVE&lt;br&gt;(5 positions guitar switch)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="345.5" y="795.27" width="139.71" height="290.73" as="geometry" />
+        </mxCell>
+        <mxCell id="m4RewTG6IQld1wpyNN1v-37" value="HOLD" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="417.3199999999998" y="661.4099999999999" width="118.11" height="125.984" as="geometry" />
+        </mxCell>
+        <mxCell id="m4RewTG6IQld1wpyNN1v-38" value="(-2 / -1 / 0)&lt;br&gt;KEY SPLIT" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="299.2099999999998" y="661.4099999999999" width="118.11" height="125.984" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
