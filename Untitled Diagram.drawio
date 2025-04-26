@@ -44,16 +44,16 @@
           <mxGeometry x="39.36999999999975" y="471.56" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="m4RewTG6IQld1wpyNN1v-14" value="OSC-2&lt;br&gt;OCTAVES" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="220.46999999999966" y="597.54" width="181.102" height="181.102" as="geometry" />
+          <mxGeometry x="330.70999999999964" y="597.54" width="181.102" height="181.102" as="geometry" />
         </mxCell>
         <mxCell id="m4RewTG6IQld1wpyNN1v-15" value="OSC-2&lt;br&gt;OCT/NOTE" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="157.47999999999976" y="471.5599999999998" width="118.11" height="125.984" as="geometry" />
+          <mxGeometry x="275.58999999999975" y="471.55999999999983" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="m4RewTG6IQld1wpyNN1v-16" value="SUB&lt;br&gt;OCTAVES" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="401.5699999999997" y="597.54" width="181.102" height="181.102" as="geometry" />
+          <mxGeometry x="188.9799999999997" y="708.66" width="181.102" height="181.102" as="geometry" />
         </mxCell>
         <mxCell id="m4RewTG6IQld1wpyNN1v-17" value="SUB&lt;br&gt;OCT/NOTE" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="275.5899999999997" y="471.56" width="118.11" height="125.984" as="geometry" />
+          <mxGeometry x="157.47999999999968" y="471.56" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="m4RewTG6IQld1wpyNN1v-19" value="OSC-1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="532.4299999999998" y="39.37000000000001" width="141.732" height="141.732" as="geometry" />
@@ -185,6 +185,9 @@
         </UserObject>
         <mxCell id="m4RewTG6IQld1wpyNN1v-33" value="(POLY / MONO)&lt;div&gt;MODE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="251.96999999999977" y="1259.8399999999997" width="118.11" height="125.984" as="geometry" />
+        </mxCell>
+        <mxCell id="8TTZSuKu-VtuvrujYmn4-5" value="(C / F / R)&lt;div&gt;SOURCE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="39.369999999999834" y="843" width="118.11" height="125.984" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
