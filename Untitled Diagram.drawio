@@ -118,7 +118,7 @@
         <mxCell id="m4RewTG6IQld1wpyNN1v-48" value="D" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1346.4499999999996" y="796.9" width="118.11" height="125.984" as="geometry" />
         </mxCell>
-        <mxCell id="m4RewTG6IQld1wpyNN1v-73" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="m4RewTG6IQld1wpyNN1v-73" value="Модуляция хранится в табле 4 (источники) на 4 (получатели)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="619.06" y="866.14" width="530.94" height="188.86" as="geometry" />
         </mxCell>
         <mxCell id="xWX6AHxLNLRqpK4tOp0E-5" value="(1+2 / 1 / 2)&lt;br&gt;PW OSC" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
