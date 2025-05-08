@@ -251,7 +251,7 @@
           <mxGeometry x="885.82" width="295.27" height="787.4" as="geometry" />
         </mxCell>
         <mxCell id="m4RewTG6IQld1wpyNN1v-1" value="&lt;div&gt;CUT&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="942.8999999999999" y="177.16000000000008" width="181.102" height="181.102" as="geometry" />
+          <mxGeometry x="905.7299999999999" y="177.16000000000008" width="181.102" height="181.102" as="geometry" />
         </mxCell>
         <mxCell id="m4RewTG6IQld1wpyNN1v-54" value="RESONANCE" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="905.73" y="377.95" width="141.732" height="141.732" as="geometry" />
@@ -355,8 +355,11 @@
         <mxCell id="8wi24MFOJ5Ws7uHCbMtL-76" value="STEREO&lt;div&gt;SPREAD&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1047.4599999999998" y="377.9499999999998" width="118.11" height="125.984" as="geometry" />
         </mxCell>
-        <mxCell id="w7xi124JPFb4Iuvyt2l8-1" value="OVERDRIVE" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="w7xi124JPFb4Iuvyt2l8-1" value="OD / CH / BitCrush" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="1047.4599999999998" y="35.42999999999998" width="118.11" height="125.984" as="geometry" />
+        </mxCell>
+        <mxCell id="w7xi124JPFb4Iuvyt2l8-2" value="(M / F / R)&lt;br&gt;FX" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="1047.4599999999998" y="177.15999999999997" width="118.11" height="125.984" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
