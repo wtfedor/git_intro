@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0" version="26.2.14">
   <diagram name="Page-1" id="0yerQAa0baYgFGr-IkGp">
-    <mxGraphModel dx="1923" dy="1164" grid="1" gridSize="39.37" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1776" pageHeight="1811" math="0" shadow="0">
+    <mxGraphModel dx="3365" dy="2038" grid="1" gridSize="39.37" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1776" pageHeight="1811" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -363,6 +363,15 @@
         </mxCell>
         <mxCell id="w7xi124JPFb4Iuvyt2l8-9" value="KEYBOARD KEYS" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="848.95" y="1201" width="922.7" height="295.06" as="geometry" />
+        </mxCell>
+        <mxCell id="w7xi124JPFb4Iuvyt2l8-10" value="MW" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="155.61" y="1496.67" width="117.9" height="291.34" as="geometry" />
+        </mxCell>
+        <mxCell id="w7xi124JPFb4Iuvyt2l8-11" value="OCTAVE&lt;br&gt;(5 positions guitar switch)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="289.5799999999999" y="1496.67" width="117.9" height="290.73" as="geometry" />
+        </mxCell>
+        <mxCell id="w7xi124JPFb4Iuvyt2l8-12" value="PW" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="25.589999999999975" y="1496.06" width="118.11" height="291.34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
