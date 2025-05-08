@@ -209,28 +209,28 @@
           <mxGeometry x="1344.4299999999994" y="640.9100000000001" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="8wi24MFOJ5Ws7uHCbMtL-24" value="SQ PW" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1494.0899999999997" y="1023.62" width="118.11" height="125.984" as="geometry" />
+          <mxGeometry x="1349.3799999999997" y="1023.6200000000001" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="8wi24MFOJ5Ws7uHCbMtL-25" value="FREQUENCY" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1352.3599999999997" y="1023.62" width="118.11" height="125.984" as="geometry" />
+          <mxGeometry x="1618.0999999999997" y="1023.62" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="8wi24MFOJ5Ws7uHCbMtL-26" value="WAVE" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1210.6299999999997" y="1023.62" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="8wi24MFOJ5Ws7uHCbMtL-27" value="SQ" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1629.9099999999994" y="1023.62" width="118.11" height="125.984" as="geometry" />
+          <mxGeometry x="1485.1999999999994" y="1023.6200000000001" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="8wi24MFOJ5Ws7uHCbMtL-28" value="NOISE&lt;br&gt;SPEED" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1623.9999999999995" y="818.89" width="118.11" height="125.984" as="geometry" />
+          <mxGeometry x="1485.2099999999996" y="818.89" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="8wi24MFOJ5Ws7uHCbMtL-29" value="FREQUENCY" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1346.4499999999994" y="818.89" width="118.11" height="125.984" as="geometry" />
+          <mxGeometry x="1623.9999999999993" y="818.89" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="8wi24MFOJ5Ws7uHCbMtL-30" value="WAVE" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1208.5999999999995" y="818.89" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="8wi24MFOJ5Ws7uHCbMtL-31" value="NOISE&lt;br&gt;RANGE" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1488.1699999999996" y="818.89" width="118.11" height="125.984" as="geometry" />
+          <mxGeometry x="1349.3799999999997" y="818.89" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="8wi24MFOJ5Ws7uHCbMtL-33" value="ENV 2" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="762.8199999999999" y="936.1300000000002" width="106.3" height="45.62" as="geometry" />
