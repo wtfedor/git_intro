@@ -361,7 +361,7 @@
         <mxCell id="w7xi124JPFb4Iuvyt2l8-2" value="(M / F / R)&lt;br&gt;FX" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="1047.4599999999998" y="177.15999999999997" width="118.11" height="125.984" as="geometry" />
         </mxCell>
-        <mxCell id="w7xi124JPFb4Iuvyt2l8-9" value="KEYBOARD KEYS" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="w7xi124JPFb4Iuvyt2l8-9" value="KEYBOARD KEYS" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="848.95" y="1201" width="922.7" height="295.06" as="geometry" />
         </mxCell>
       </root>
