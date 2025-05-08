@@ -146,10 +146,10 @@
           <mxGeometry x="51.38999999999983" y="610.23" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="56mNvcB_yV8vKIjIocQw-1" value="CUT" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="39.36999999999992" y="436.99999999999983" width="118.11" height="125.984" as="geometry" />
+          <mxGeometry x="39.99999999999992" y="455.99999999999983" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="56mNvcB_yV8vKIjIocQw-2" value="RESONANCE" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="248.0299999999998" y="438.6299999999999" width="118.11" height="125.984" as="geometry" />
+          <mxGeometry x="248.0299999999998" y="455.9999999999999" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="xokh4Ez91sBqfJbft43O-6" value="(Потенциометр 1&amp;gt;2 / 0 / 2&amp;gt;1)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="39.36999999999995" y="311.02000000000004" width="118.11" height="125.984" as="geometry" />
@@ -275,7 +275,7 @@
           <mxGeometry x="325.9999999999999" y="610.2299999999999" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="8wi24MFOJ5Ws7uHCbMtL-42" value="(HP / BP / LP)&lt;div&gt;FILTER&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="452.74999999999983" y="436.9999999999999" width="118.11" height="125.984" as="geometry" />
+          <mxGeometry x="452.74999999999983" y="455.9999999999999" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="8wi24MFOJ5Ws7uHCbMtL-45" value="REC&lt;br&gt;(CLEAR)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="39.37" y="736.21" width="78.74" height="125.98" as="geometry" />
