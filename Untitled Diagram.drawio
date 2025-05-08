@@ -82,7 +82,7 @@
         <mxCell id="m4RewTG6IQld1wpyNN1v-24" value="EXTERNAL" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="707.22" y="610.2300000000001" width="141.732" height="141.732" as="geometry" />
         </mxCell>
-        <mxCell id="m4RewTG6IQld1wpyNN1v-31" value="(B / P / W)&lt;div&gt;NOISE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="m4RewTG6IQld1wpyNN1v-31" value="&lt;div&gt;SPREAD&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="39.369999999999834" y="436.99999999999983" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="m4RewTG6IQld1wpyNN1v-32" value="GLIDE" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
@@ -265,7 +265,7 @@
         <mxCell id="8wi24MFOJ5Ws7uHCbMtL-6" value="DRIVE" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="1019.4899999999998" y="476.36999999999995" width="141.732" height="141.732" as="geometry" />
         </mxCell>
-        <mxCell id="8wi24MFOJ5Ws7uHCbMtL-39" value="(HP / BP / LP)&lt;div&gt;SOURCE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="8wi24MFOJ5Ws7uHCbMtL-39" value="(HP / BP / LP)&lt;div&gt;FILTER&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="452.74999999999983" y="625.98" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="8wi24MFOJ5Ws7uHCbMtL-40" value="CUT" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
@@ -274,7 +274,7 @@
         <mxCell id="8wi24MFOJ5Ws7uHCbMtL-41" value="RESONANCE" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="311.01999999999987" y="625.9799999999999" width="118.11" height="125.984" as="geometry" />
         </mxCell>
-        <mxCell id="8wi24MFOJ5Ws7uHCbMtL-42" value="SPREAD" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="8wi24MFOJ5Ws7uHCbMtL-42" value="(HP / BP / LP)&lt;div&gt;FILTER&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="452.74999999999983" y="436.9999999999999" width="118.11" height="125.984" as="geometry" />
         </mxCell>
       </root>
