@@ -74,19 +74,19 @@
           <mxGeometry x="616.13" y="27.560000000000013" width="141.732" height="141.732" as="geometry" />
         </mxCell>
         <mxCell id="m4RewTG6IQld1wpyNN1v-20" value="OSC-2" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="616.13" y="272.14000000000004" width="141.732" height="141.732" as="geometry" />
+          <mxGeometry x="616.1300000000001" y="224.41000000000003" width="141.732" height="141.732" as="geometry" />
         </mxCell>
         <mxCell id="m4RewTG6IQld1wpyNN1v-21" value="SUB-1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="718.5" y="153.54000000000002" width="141.732" height="141.732" as="geometry" />
+          <mxGeometry x="718.4999999999998" y="125.97999999999999" width="141.732" height="141.732" as="geometry" />
         </mxCell>
         <mxCell id="m4RewTG6IQld1wpyNN1v-22" value="NOISE" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="718.5" y="393.69999999999993" width="141.732" height="141.732" as="geometry" />
+          <mxGeometry x="718.5" y="366.13999999999993" width="141.732" height="141.732" as="geometry" />
         </mxCell>
         <mxCell id="m4RewTG6IQld1wpyNN1v-23" value="LOOPER" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="616.13" y="511.8100000000001" width="141.732" height="141.732" as="geometry" />
+          <mxGeometry x="616.13" y="476.3700000000001" width="141.732" height="141.732" as="geometry" />
         </mxCell>
         <mxCell id="m4RewTG6IQld1wpyNN1v-24" value="EXTERNAL" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="718.5" y="602.35" width="141.732" height="141.732" as="geometry" />
+          <mxGeometry x="718.5" y="610.2300000000001" width="141.732" height="141.732" as="geometry" />
         </mxCell>
         <mxCell id="m4RewTG6IQld1wpyNN1v-31" value="(B / P / W)&lt;div&gt;NOISE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="51.179999999999836" y="436.99999999999983" width="118.11" height="125.984" as="geometry" />
