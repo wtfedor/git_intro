@@ -77,10 +77,10 @@
           <mxGeometry x="777.08" y="295.28999999999996" width="78.74" height="196.85" as="geometry" />
         </mxCell>
         <mxCell id="m4RewTG6IQld1wpyNN1v-22" value="NOISE" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="620.0699999999999" y="514.93" width="118.11" height="125.984" as="geometry" />
+          <mxGeometry x="607.2499999999999" y="514.93" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="m4RewTG6IQld1wpyNN1v-23" value="LOOPER" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="737.23" y="514.93" width="118.11" height="125.984" as="geometry" />
+          <mxGeometry x="751.01" y="514.93" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="m4RewTG6IQld1wpyNN1v-24" value="EXTERNAL" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="679.13" y="640.9100000000001" width="118.11" height="125.984" as="geometry" />
