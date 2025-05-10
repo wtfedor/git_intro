@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.1">
   <diagram name="Page-1" id="0yerQAa0baYgFGr-IkGp">
-    <mxGraphModel dx="1177" dy="777" grid="1" gridSize="39.37" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1776" pageHeight="1811" math="0" shadow="0">
+    <mxGraphModel dx="1177" dy="706" grid="1" gridSize="39.37" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1776" pageHeight="1811" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,19 +131,19 @@
           <mxGeometry x="1627.8899999999994" y="232.28000000000006" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="xWX6AHxLNLRqpK4tOp0E-9" value="DRY" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1391.6699999999996" y="231.74000000000007" width="118.11" height="125.984" as="geometry" />
+          <mxGeometry x="1344.4199999999996" y="231.74000000000007" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="xWX6AHxLNLRqpK4tOp0E-10" value="HIGH" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1509.7799999999995" y="27.56000000000006" width="118.11" height="125.984" as="geometry" />
+          <mxGeometry x="1486.1599999999996" y="27.02000000000006" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="xWX6AHxLNLRqpK4tOp0E-11" value="DECAY" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1627.8899999999994" y="27.569999999999865" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="xWX6AHxLNLRqpK4tOp0E-12" value="WET" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1391.6699999999996" y="27.01999999999988" width="118.11" height="125.984" as="geometry" />
+          <mxGeometry x="1344.4199999999996" y="27.01999999999988" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="xWX6AHxLNLRqpK4tOp0E-13" value="LOW" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1509.7799999999995" y="232.27999999999986" width="118.11" height="125.984" as="geometry" />
+          <mxGeometry x="1486.1599999999996" y="232.27999999999986" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="8TTZSuKu-VtuvrujYmn4-5" value="(M / F / R)&lt;div&gt;SOURCE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="39.469999999999835" y="608.61" width="118.11" height="125.984" as="geometry" />
@@ -176,10 +176,10 @@
           <mxGeometry x="429.13" y="169.29000000000002" width="141.732" height="141.732" as="geometry" />
         </mxCell>
         <mxCell id="8wi24MFOJ5Ws7uHCbMtL-7" value="FREEZE" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1467.4899999999998" y="153.55000000000004" width="78.74" height="78.74" as="geometry" />
+          <mxGeometry x="1437.0099999999998" y="153.55000000000004" width="78.74" height="78.74" as="geometry" />
         </mxCell>
         <mxCell id="8wi24MFOJ5Ws7uHCbMtL-8" value="CLEAR" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1584.9999999999998" y="153" width="78.74" height="78.74" as="geometry" />
+          <mxGeometry x="1580.9999999999998" y="153" width="78.74" height="78.74" as="geometry" />
         </mxCell>
         <mxCell id="8wi24MFOJ5Ws7uHCbMtL-9" value="Retrig (Gate / Trig?)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1309" y="562.99" width="106.3" height="45.62" as="geometry" />
@@ -349,7 +349,7 @@
         <mxCell id="8wi24MFOJ5Ws7uHCbMtL-75" value="Sync" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1629.8999999999996" y="962.2500000000001" width="106.3" height="45.62" as="geometry" />
         </mxCell>
-        <mxCell id="w7xi124JPFb4Iuvyt2l8-1" value="&lt;div&gt;OD / BitCrush&lt;/div&gt;&lt;div&gt;(как на микрокубе)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="w7xi124JPFb4Iuvyt2l8-1" value="&lt;div&gt;BitCrush&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="1202.7" y="27.569999999999993" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="w7xi124JPFb4Iuvyt2l8-2" value="(M / F / R)&lt;br&gt;FX" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
