@@ -92,10 +92,10 @@
           <mxGeometry x="27.55999999999998" y="1200.9999999999998" width="141.732" height="141.732" as="geometry" />
         </mxCell>
         <mxCell id="m4RewTG6IQld1wpyNN1v-35" value="MW" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="588.09" y="1201.6100000000001" width="117.9" height="291.34" as="geometry" />
+          <mxGeometry x="588.09" y="1201.61" width="117.9" height="294.45" as="geometry" />
         </mxCell>
         <mxCell id="m4RewTG6IQld1wpyNN1v-36" value="OCTAVE&lt;br&gt;(5 positions guitar switch)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="722.06" y="1201.6100000000001" width="117.9" height="290.73" as="geometry" />
+          <mxGeometry x="722.06" y="1201.61" width="117.9" height="294.45" as="geometry" />
         </mxCell>
         <mxCell id="m4RewTG6IQld1wpyNN1v-37" value="HOLD&lt;br&gt;&lt;div&gt;OSC 1&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="287.39999999999986" y="1208.8699999999997" width="118.11" height="125.984" as="geometry" />
@@ -245,7 +245,7 @@
           <mxGeometry x="1043.6999999999996" y="936.1300000000002" width="106.3" height="45.62" as="geometry" />
         </mxCell>
         <mxCell id="8wi24MFOJ5Ws7uHCbMtL-38" value="PW" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="458.07" y="1201" width="118.11" height="291.34" as="geometry" />
+          <mxGeometry x="458.07" y="1201" width="118.11" height="295.06" as="geometry" />
         </mxCell>
         <mxCell id="56mNvcB_yV8vKIjIocQw-4" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="885.82" width="295.27" height="787.4" as="geometry" />
