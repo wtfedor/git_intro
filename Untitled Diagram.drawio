@@ -254,7 +254,7 @@
           <mxGeometry x="905.73" y="669.29" width="255.49" height="90.54" as="geometry" />
         </mxCell>
         <mxCell id="d05ju5goZMEUmhi3or16-1" value="VOLUME" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="962.5899999999999" y="27.01999999999998" width="141.732" height="141.732" as="geometry" />
+          <mxGeometry x="962.5799999999999" y="27.01999999999998" width="141.732" height="141.732" as="geometry" />
         </mxCell>
         <mxCell id="8wi24MFOJ5Ws7uHCbMtL-6" value="DRIVE" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="1043.2899999999997" y="377.94999999999993" width="118.11" height="125.984" as="geometry" />
