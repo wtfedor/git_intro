@@ -248,7 +248,7 @@
           <mxGeometry x="885.82" width="295.27" height="787.4" as="geometry" />
         </mxCell>
         <mxCell id="m4RewTG6IQld1wpyNN1v-1" value="&lt;div&gt;CUT&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="942.9199999999998" y="177.16000000000008" width="181.102" height="181.102" as="geometry" />
+          <mxGeometry x="942.8999999999999" y="177.17000000000007" width="181.102" height="181.102" as="geometry" />
         </mxCell>
         <mxCell id="m4RewTG6IQld1wpyNN1v-76" value="MODE&lt;br&gt;(VCV Classic: lp, hp / KFM-35: clear, mid, heavy)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="905.73" y="669.29" width="255.49" height="90.54" as="geometry" />
@@ -257,7 +257,7 @@
           <mxGeometry x="962.5899999999999" y="27.01999999999998" width="141.732" height="141.732" as="geometry" />
         </mxCell>
         <mxCell id="8wi24MFOJ5Ws7uHCbMtL-6" value="DRIVE" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1043.6999999999998" y="377.94999999999993" width="118.11" height="125.984" as="geometry" />
+          <mxGeometry x="1043.2899999999997" y="377.94999999999993" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="8wi24MFOJ5Ws7uHCbMtL-39" value="(HP / BP / LP)&lt;div&gt;FILTER&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="452.74999999999983" y="610.23" width="118.11" height="125.984" as="geometry" />
@@ -346,12 +346,6 @@
         <mxCell id="8wi24MFOJ5Ws7uHCbMtL-75" value="Sync" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1629.8999999999996" y="962.2500000000001" width="106.3" height="45.62" as="geometry" />
         </mxCell>
-        <mxCell id="w7xi124JPFb4Iuvyt2l8-1" value="&lt;div&gt;BitCrush&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1202.7" y="27.569999999999993" width="118.11" height="125.984" as="geometry" />
-        </mxCell>
-        <mxCell id="w7xi124JPFb4Iuvyt2l8-2" value="(M / F / R)&lt;br&gt;FX" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1202.6999999999998" y="232.28999999999996" width="118.11" height="125.984" as="geometry" />
-        </mxCell>
         <mxCell id="w7xi124JPFb4Iuvyt2l8-9" value="KEYBOARD KEYS" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;dashed=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="848.95" y="1201" width="922.7" height="295.06" as="geometry" />
         </mxCell>
@@ -368,7 +362,7 @@
           <mxGeometry x="905.73" y="377.95" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="gBDPEbCBvgzt7-z5L_b_-1" value="MIX" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="974.3999999999999" y="522.81" width="118.11" height="125.984" as="geometry" />
+          <mxGeometry x="905.7299999999999" y="527.56" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="gBDPEbCBvgzt7-z5L_b_-3" value="&lt;div&gt;OSCILOSCOPE&lt;/div&gt;/ WATERFALL&lt;br&gt;/ SPECTR" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="647.6299999999999" y="27.020000000000095" width="181.102" height="181.102" as="geometry" />
@@ -405,6 +399,9 @@
         </mxCell>
         <mxCell id="gBDPEbCBvgzt7-z5L_b_-14" value="MONO&lt;br&gt;PARA&lt;br&gt;POLY" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="39.46999999999986" y="452.0499999999996" width="118.11" height="125.984" as="geometry" />
+        </mxCell>
+        <mxCell id="gbtdaO8nGlUaZbrBjqpk-1" value="GAIN" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="1043.6999999999998" y="527.56" width="118.11" height="125.984" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
