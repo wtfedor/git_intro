@@ -406,6 +406,15 @@
         <mxCell id="gbtdaO8nGlUaZbrBjqpk-2" value="L" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1578.7599999999993" y="818.89" width="24.56" height="24.409399999999998" as="geometry" />
         </mxCell>
+        <mxCell id="gbtdaO8nGlUaZbrBjqpk-3" value="OSC send" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1202.6999999999996" y="27.019999999999875" width="118.11" height="125.984" as="geometry" />
+        </mxCell>
+        <mxCell id="gbtdaO8nGlUaZbrBjqpk-4" value="LOOPER send" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1202.6999999999996" y="133.85999999999987" width="118.11" height="125.984" as="geometry" />
+        </mxCell>
+        <mxCell id="gbtdaO8nGlUaZbrBjqpk-5" value="EXTERNAL send" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1202.6999999999996" y="232.27999999999986" width="118.11" height="125.984" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
