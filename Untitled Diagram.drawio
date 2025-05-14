@@ -245,7 +245,7 @@
           <mxGeometry x="885.82" width="295.27" height="787.4" as="geometry" />
         </mxCell>
         <mxCell id="m4RewTG6IQld1wpyNN1v-1" value="&lt;div&gt;CUT&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="942.8999999999999" y="177.17000000000007" width="181.102" height="181.102" as="geometry" />
+          <mxGeometry x="942.8999999999999" y="176.62000000000006" width="181.102" height="181.102" as="geometry" />
         </mxCell>
         <mxCell id="m4RewTG6IQld1wpyNN1v-76" value="MODE&lt;br&gt;(VCV Classic: lp, hp / KFM-35: clear, mid, heavy)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="905.73" y="669.29" width="255.49" height="90.54" as="geometry" />
