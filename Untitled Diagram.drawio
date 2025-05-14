@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.4">
   <diagram name="Page-1" id="0yerQAa0baYgFGr-IkGp">
-    <mxGraphModel dx="3437" dy="996" grid="1" gridSize="39.37" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1776" pageHeight="1811" math="0" shadow="0">
+    <mxGraphModel dx="2172" dy="1303" grid="1" gridSize="39.37" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1776" pageHeight="1811" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -405,15 +405,6 @@
         </mxCell>
         <mxCell id="gbtdaO8nGlUaZbrBjqpk-2" value="L" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1578.7599999999993" y="818.89" width="24.56" height="24.409399999999998" as="geometry" />
-        </mxCell>
-        <mxCell id="gbtdaO8nGlUaZbrBjqpk-3" value="OSC send" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="-157.48000000000047" y="186.63999999999987" width="118.11" height="125.984" as="geometry" />
-        </mxCell>
-        <mxCell id="gbtdaO8nGlUaZbrBjqpk-4" value="LOOPER send" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="-157.48000000000047" y="438.5999999999999" width="118.11" height="125.984" as="geometry" />
-        </mxCell>
-        <mxCell id="gbtdaO8nGlUaZbrBjqpk-5" value="EXTERNAL send&lt;br&gt;Обрабатывать ли лупер фильтром и ревербом?&lt;br&gt;Продумать схему посылов." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="-157.48000000000047" y="312.6199999999999" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="gbtdaO8nGlUaZbrBjqpk-6" value="GAIN" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="904.5499999999997" y="27.019999999999982" width="118.11" height="125.984" as="geometry" />
