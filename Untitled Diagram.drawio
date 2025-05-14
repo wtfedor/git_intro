@@ -254,10 +254,10 @@
           <mxGeometry x="905.73" y="669.29" width="255.49" height="90.54" as="geometry" />
         </mxCell>
         <mxCell id="d05ju5goZMEUmhi3or16-1" value="VOLUME" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="962.5799999999999" y="27.01999999999998" width="141.732" height="141.732" as="geometry" />
+          <mxGeometry x="1036.73" y="27.56999999999998" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="8wi24MFOJ5Ws7uHCbMtL-6" value="DRIVE" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1043.2899999999997" y="377.94999999999993" width="118.11" height="125.984" as="geometry" />
+          <mxGeometry x="904.5499999999997" y="388.94999999999993" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="8wi24MFOJ5Ws7uHCbMtL-39" value="(HP / BP / LP)&lt;div&gt;FILTER&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="452.74999999999983" y="610.23" width="118.11" height="125.984" as="geometry" />
@@ -359,7 +359,7 @@
           <mxGeometry x="25.589999999999975" y="1496.06" width="118.11" height="291.34" as="geometry" />
         </mxCell>
         <mxCell id="m4RewTG6IQld1wpyNN1v-54" value="RESONANCE" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="905.73" y="377.95" width="118.11" height="125.984" as="geometry" />
+          <mxGeometry x="1043.7" y="385.82" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="gBDPEbCBvgzt7-z5L_b_-1" value="MIX" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="905.7299999999999" y="527.56" width="118.11" height="125.984" as="geometry" />
@@ -400,7 +400,7 @@
         <mxCell id="gBDPEbCBvgzt7-z5L_b_-14" value="MONO&lt;br&gt;PARA&lt;br&gt;POLY" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="39.46999999999986" y="452.0499999999996" width="118.11" height="125.984" as="geometry" />
         </mxCell>
-        <mxCell id="gbtdaO8nGlUaZbrBjqpk-1" value="GAIN" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="gbtdaO8nGlUaZbrBjqpk-1" value="HPF" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="1043.6999999999998" y="527.56" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="gbtdaO8nGlUaZbrBjqpk-2" value="L" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -414,6 +414,9 @@
         </mxCell>
         <mxCell id="gbtdaO8nGlUaZbrBjqpk-5" value="EXTERNAL send&lt;br&gt;Обрабатывать ли лупер фильтром и ревербом?&lt;br&gt;Продумать схему посылов." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1202.6999999999996" y="232.27999999999986" width="118.11" height="125.984" as="geometry" />
+        </mxCell>
+        <mxCell id="gbtdaO8nGlUaZbrBjqpk-6" value="GAIN" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="904.5499999999997" y="27.019999999999982" width="118.11" height="125.984" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
