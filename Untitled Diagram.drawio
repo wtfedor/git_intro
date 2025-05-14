@@ -56,10 +56,10 @@
           <mxGeometry x="429.12999999999994" y="27.560000000000002" width="141.732" height="141.732" as="geometry" />
         </mxCell>
         <mxCell id="m4RewTG6IQld1wpyNN1v-14" value="OSC-2&lt;br&gt;OCTAVES" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="389.75999999999965" y="906" width="181.102" height="181.102" as="geometry" />
+          <mxGeometry x="389.75999999999965" y="931.63" width="181.102" height="181.102" as="geometry" />
         </mxCell>
         <mxCell id="m4RewTG6IQld1wpyNN1v-16" value="SUB&lt;br&gt;OCTAVES" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="19.68999999999969" y="906" width="181.102" height="181.102" as="geometry" />
+          <mxGeometry x="39.469999999999686" y="934.28" width="181.102" height="181.102" as="geometry" />
         </mxCell>
         <mxCell id="m4RewTG6IQld1wpyNN1v-17" value="SUB&lt;br&gt;OCT/NOTE" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="311.0199999999997" y="1048.03" width="118.11" height="125.984" as="geometry" />
