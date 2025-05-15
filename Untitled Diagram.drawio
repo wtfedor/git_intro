@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.5">
   <diagram name="Page-1" id="0yerQAa0baYgFGr-IkGp">
-    <mxGraphModel dx="997" dy="604" grid="1" gridSize="39.37" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1776" pageHeight="1811" math="0" shadow="0">
+    <mxGraphModel dx="1496" dy="906" grid="1" gridSize="39.37" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1776" pageHeight="1811" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
         <mxCell id="m4RewTG6IQld1wpyNN1v-4" value="Square" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="236.2199999999999" y="169.29" width="141.732" height="141.732" as="geometry" />
         </mxCell>
-        <mxCell id="m4RewTG6IQld1wpyNN1v-6" value="(HARD /&amp;nbsp;SOFT)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="m4RewTG6IQld1wpyNN1v-6" value="(HARD /&amp;nbsp;SOFT)&lt;br&gt;MODE" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="373.59000000000003" y="311.02" width="98.42" height="125.98" as="geometry" />
         </mxCell>
         <mxCell id="m4RewTG6IQld1wpyNN1v-7" value="(sin&amp;gt;saw)&lt;br&gt;WAVE" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
@@ -164,7 +164,7 @@
           <mxGeometry x="125.97999999999996" y="385.82" width="70.87" height="51.18" as="geometry" />
         </mxCell>
         <mxCell id="8wi24MFOJ5Ws7uHCbMtL-4" value="SYNC" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="334.2199999999999" y="387.49" width="70.87" height="51.18" as="geometry" />
+          <mxGeometry x="334.12999999999994" y="385.82" width="70.87" height="51.18" as="geometry" />
         </mxCell>
         <mxCell id="8wi24MFOJ5Ws7uHCbMtL-5" value="SQ PW" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="429.13" y="169.29000000000002" width="141.732" height="141.732" as="geometry" />
@@ -253,7 +253,7 @@
         <mxCell id="8wi24MFOJ5Ws7uHCbMtL-41" value="RESONANCE" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="314.95999999999987" y="610.2299999999999" width="118.11" height="125.984" as="geometry" />
         </mxCell>
-        <mxCell id="8wi24MFOJ5Ws7uHCbMtL-42" value="(HP &amp;lt;-&amp;gt; LP)&lt;div&gt;FILTER&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="8wi24MFOJ5Ws7uHCbMtL-42" value="(HP &amp;lt;-&amp;gt; LP)&lt;div&gt;FILTER&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
           <mxGeometry x="452.75" y="452.05" width="118.11" height="125.98" as="geometry" />
         </mxCell>
         <mxCell id="8wi24MFOJ5Ws7uHCbMtL-45" value="REC&lt;br&gt;(CLEAR)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
