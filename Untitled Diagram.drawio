@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.1.4" pages="3">
   <diagram name="Page-1" id="0yerQAa0baYgFGr-IkGp">
-    <mxGraphModel dx="3497" dy="1087" grid="1" gridSize="39.37" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1776" pageHeight="1811" math="0" shadow="0">
+    <mxGraphModel dx="3067" dy="815" grid="1" gridSize="39.37" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1776" pageHeight="1811" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,9 +36,6 @@
         </mxCell>
         <mxCell id="m4RewTG6IQld1wpyNN1v-2" value="(sin&amp;gt;saw)&lt;br&gt;WAVE" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="39.03999999999985" y="27.569999999999993" width="141.732" height="141.732" as="geometry" />
-        </mxCell>
-        <mxCell id="m4RewTG6IQld1wpyNN1v-3" value="&lt;div&gt;LFM&lt;/div&gt;&lt;div&gt;FM&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="378" y="311.02" width="94.54" height="125.98" as="geometry" />
         </mxCell>
         <mxCell id="m4RewTG6IQld1wpyNN1v-4" value="SQUARE" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="235.88999999999987" y="27.569999999999993" width="141.732" height="141.732" as="geometry" />
@@ -136,8 +133,8 @@
         <mxCell id="56mNvcB_yV8vKIjIocQw-2" value="RESONANCE" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="452.7499999999998" y="452.0499999999999" width="118.11" height="125.984" as="geometry" />
         </mxCell>
-        <mxCell id="xokh4Ez91sBqfJbft43O-6" value="(Потенциометр 1&amp;gt;2 / 0 / 2&amp;gt;1)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="236.22" y="311.02" width="141.78" height="125.98" as="geometry" />
+        <mxCell id="xokh4Ez91sBqfJbft43O-6" value="(1&amp;gt;2 / 0 / 2&amp;gt;1)&lt;br&gt;FM" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="143.7" y="117.56" width="127.79" height="114.18" as="geometry" />
         </mxCell>
         <mxCell id="wlH6y_KVvPXo0IShCjxc-3" value="(1+2 / 1 / 2)&lt;br&gt;DEST" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="155.9999999999998" y="1207.9999999999995" width="118.11" height="125.984" as="geometry" />
@@ -147,9 +144,6 @@
         </mxCell>
         <mxCell id="8wi24MFOJ5Ws7uHCbMtL-1" value="&lt;div&gt;1&amp;gt;2&lt;/div&gt;&lt;div&gt;&amp;nbsp;2&amp;gt;1&lt;/div&gt;&lt;div&gt;off&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="40.22999999999999" y="311.02" width="97.57" height="125.98" as="geometry" />
-        </mxCell>
-        <mxCell id="8wi24MFOJ5Ws7uHCbMtL-3" value="&lt;div&gt;FM&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="344" y="385.82" width="70.87" height="51.18" as="geometry" />
         </mxCell>
         <mxCell id="8wi24MFOJ5Ws7uHCbMtL-4" value="SYNC" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="98.33999999999995" y="385.82" width="70.87" height="51.18" as="geometry" />
@@ -463,9 +457,6 @@
         <mxCell id="8wi24MFOJ5Ws7uHCbMtL-75" value="Sync" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1639.6999999999998" y="946.94" width="106.3" height="45.62" as="geometry" />
         </mxCell>
-        <mxCell id="JVRs23YW-IqXZZvFPZ2R-28" value="&lt;div&gt;(1 / 2)&lt;/div&gt;&lt;div&gt;SUB&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="472.53999999999996" y="311.02" width="98.99" height="125.98" as="geometry" />
-        </mxCell>
         <mxCell id="JVRs23YW-IqXZZvFPZ2R-29" value="L" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1282.4699999999998" y="153.55" width="24.56" height="24.409399999999998" as="geometry" />
         </mxCell>
@@ -576,6 +567,9 @@
         </mxCell>
         <mxCell id="vXxy1PWi-aHoiebXrMiE-2" value="OSCs&lt;br&gt;EXT&lt;br&gt;OSC+EXT" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="-92.52" y="610.23" width="118.11" height="125.984" as="geometry" />
+        </mxCell>
+        <mxCell id="m4RewTG6IQld1wpyNN1v-3" value="&lt;div&gt;LFM&lt;/div&gt;&lt;div&gt;FM&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="358.21" y="132.17" width="94.54" height="74.26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
