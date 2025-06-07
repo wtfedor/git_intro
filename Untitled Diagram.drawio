@@ -1277,42 +1277,6 @@
         <mxCell id="99ZJq89zPM-AE_vMQwlA-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.3937;" vertex="1" parent="1">
           <mxGeometry x="590.54" y="589.5899999999999" width="590.55" height="295.275" as="geometry" />
         </mxCell>
-        <mxCell id="bZ3xaOcZ2mtgp2InuJEH-1" value="(M / F / R)&lt;div&gt;SOURCE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1102.3799999999997" y="906.0000000000002" width="118.11" height="125.984" as="geometry" />
-        </mxCell>
-        <mxCell id="bZ3xaOcZ2mtgp2InuJEH-3" value="CUT" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="708.7699999999999" y="906" width="118.11" height="125.984" as="geometry" />
-        </mxCell>
-        <mxCell id="bZ3xaOcZ2mtgp2InuJEH-4" value="RESONANCE" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="850.4" y="906.0000000000001" width="118.11" height="125.984" as="geometry" />
-        </mxCell>
-        <mxCell id="bZ3xaOcZ2mtgp2InuJEH-5" value="REC&lt;br&gt;(CLEAR)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="708.3399999999999" y="1031.9800000000002" width="118.53" height="125.98" as="geometry" />
-        </mxCell>
-        <mxCell id="bZ3xaOcZ2mtgp2InuJEH-6" value="PLAY&lt;br&gt;(PAUSE)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="850.3999999999999" y="1031.9800000000002" width="118.21" height="125.98" as="geometry" />
-        </mxCell>
-        <mxCell id="bZ3xaOcZ2mtgp2InuJEH-7" value="START" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="984.2399999999998" y="1031.98" width="118.11" height="125.984" as="geometry" />
-        </mxCell>
-        <mxCell id="bZ3xaOcZ2mtgp2InuJEH-8" value="STOP" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1102.3799999999999" y="1031.98" width="118.11" height="125.984" as="geometry" />
-        </mxCell>
-        <mxCell id="bZ3xaOcZ2mtgp2InuJEH-9" value="L" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="802.3199999999997" y="1031.98" width="24.56" height="24.409399999999998" as="geometry" />
-        </mxCell>
-        <mxCell id="bZ3xaOcZ2mtgp2InuJEH-10" value="L" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="943.9499999999996" y="1031.98" width="24.56" height="24.409399999999998" as="geometry" />
-        </mxCell>
-        <mxCell id="bZ3xaOcZ2mtgp2InuJEH-11" value="SYNC" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="590.23" y="1031.98" width="118.11" height="125.984" as="geometry" />
-        </mxCell>
-        <mxCell id="bZ3xaOcZ2mtgp2InuJEH-12" value="OSCs&lt;br&gt;EXT&lt;br&gt;OSC+EXT" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="590.6999999999999" y="906.0000000000002" width="118.11" height="125.984" as="geometry" />
-        </mxCell>
-        <mxCell id="bZ3xaOcZ2mtgp2InuJEH-2" value="(HP / BP / LP)&lt;div&gt;FILTER&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="984.2699999999998" y="906.0000000000002" width="118.11" height="125.984" as="geometry" />
-        </mxCell>
         <mxCell id="EbI9jt-IP966mhARuJm5-1" value="OSC-2" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="620" y="614.19" width="181.102" height="181.102" as="geometry" />
         </mxCell>
