@@ -769,7 +769,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Loo9MJqOnkHfomTQ8hS7" name="Page-3">
-    <mxGraphModel dx="1123" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1776" pageHeight="1811" math="0" shadow="0">
+    <mxGraphModel dx="1170" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1776" pageHeight="1811" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1073,7 +1073,7 @@
         <mxCell id="y0wRFkDBUARBy_ZgNNgG-1" value="8" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.3937;" parent="1" vertex="1">
           <mxGeometry x="1250" y="374.0400000000003" width="196.85" height="31.496" as="geometry" />
         </mxCell>
-        <mxCell id="PAQ3J6B9pDK1yVCcNp0l-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.3937;" parent="1" vertex="1">
+        <mxCell id="PAQ3J6B9pDK1yVCcNp0l-1" value="Управление гейтами осциляторов, нойза, экст, лупера." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.3937;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
           <mxGeometry x="39.370000000000005" y="476.4" width="216.535" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="PAQ3J6B9pDK1yVCcNp0l-11" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.3937;fontSize=18;" parent="1" vertex="1">
