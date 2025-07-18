@@ -1095,7 +1095,7 @@
           <mxGeometry x="1426.85" y="974.81" width="295.275" height="19.685" as="geometry" />
         </mxCell>
         <mxCell id="nZOUCHxCDvtEaPM5HesN-1" value="POWER LED" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.3937;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="610.3675000000001" y="1014.1724999999999" width="137.795" height="39.37" as="geometry" />
+          <mxGeometry x="610.3675000000001" y="1004.3324999999999" width="137.795" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="nZOUCHxCDvtEaPM5HesN-2" value="5" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.3937;" parent="1" vertex="1">
           <mxGeometry x="1055.1399999999999" y="953.16" width="19.685" height="196.85" as="geometry" />
