@@ -736,7 +736,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Loo9MJqOnkHfomTQ8hS7" name="Page-3">
-    <mxGraphModel dx="993" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1776" pageHeight="1811" math="0" shadow="0">
+    <mxGraphModel dx="506" dy="320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1776" pageHeight="1811" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -810,7 +810,7 @@
           <mxGeometry x="334.63" y="476.40000000000003" width="216.535" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="G8kM4vWGhsSAPcSPORrJ-1" value="&lt;div&gt;4&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.3937;" parent="1" vertex="1">
-          <mxGeometry x="1210" y="807.4700000000001" width="196.85" height="15.748" as="geometry" />
+          <mxGeometry x="1181.0900000000001" y="937.4100000000001" width="196.85" height="15.748" as="geometry" />
         </mxCell>
         <mxCell id="G8kM4vWGhsSAPcSPORrJ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=0.3937;" parent="1" vertex="1">
           <mxGeometry x="334.675" y="523.6400000000001" width="90.551" height="90.551" as="geometry" />
@@ -1095,7 +1095,7 @@
           <mxGeometry x="1426.85" y="974.81" width="295.275" height="19.685" as="geometry" />
         </mxCell>
         <mxCell id="nZOUCHxCDvtEaPM5HesN-1" value="&lt;div&gt;10&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.3937;" parent="1" vertex="1">
-          <mxGeometry x="759.8399999999999" y="920.3199999999999" width="39.37" height="118.11" as="geometry" />
+          <mxGeometry x="763.77" y="906" width="39.37" height="137.795" as="geometry" />
         </mxCell>
         <mxCell id="nZOUCHxCDvtEaPM5HesN-2" value="5" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.3937;" parent="1" vertex="1">
           <mxGeometry x="1063.97" y="899.62" width="19.685" height="196.85" as="geometry" />
@@ -1533,7 +1533,7 @@
           <mxGeometry x="834.64" y="1083.07" width="78.74" height="78.74" as="geometry" />
         </mxCell>
         <mxCell id="i_v3m8Q3M7hDyT3gAhCr-1" value="4" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.3937;" vertex="1" parent="1">
-          <mxGeometry x="1111.2" y="994.49" width="15.748" height="196.85" as="geometry" />
+          <mxGeometry x="1122.06" y="940" width="15.748" height="196.85" as="geometry" />
         </mxCell>
         <mxCell id="i_v3m8Q3M7hDyT3gAhCr-2" value="&lt;div&gt;MIDI&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.3937;" vertex="1" parent="1">
           <mxGeometry x="913.4" y="1043.7" width="78.74" height="118.11" as="geometry" />
@@ -1542,7 +1542,7 @@
           <mxGeometry x="834.64" y="905.91" width="78.74" height="78.74" as="geometry" />
         </mxCell>
         <mxCell id="i_v3m8Q3M7hDyT3gAhCr-6" value="POWER" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.3937;" vertex="1" parent="1">
-          <mxGeometry x="641.88" y="940" width="78.74" height="78.74" as="geometry" />
+          <mxGeometry x="637.79" y="906" width="78.74" height="78.74" as="geometry" />
         </mxCell>
         <mxCell id="i_v3m8Q3M7hDyT3gAhCr-7" value="&lt;div&gt;10&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.3937;" vertex="1" parent="1">
           <mxGeometry x="1160" y="1012.21" width="39.37" height="196.85" as="geometry" />
