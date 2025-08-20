@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0" version="28.1.0" pages="4">
   <diagram name="Page-1" id="0yerQAa0baYgFGr-IkGp">
-    <mxGraphModel dx="1230" dy="775" grid="1" gridSize="39.37" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1776" pageHeight="1811" math="0" shadow="0">
+    <mxGraphModel dx="1291" dy="814" grid="1" gridSize="39.37" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1776" pageHeight="1811" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -206,7 +206,7 @@
           <mxGeometry x="1036.73" y="27.56999999999998" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="8wi24MFOJ5Ws7uHCbMtL-6" value="PRE&lt;br&gt;GAIN" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="904.5499999999997" y="388.94999999999993" width="118.11" height="125.984" as="geometry" />
+          <mxGeometry x="905.7299999999998" y="527.56" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="8wi24MFOJ5Ws7uHCbMtL-39" value="CUT" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="314.9599999999998" y="610.23" width="118.11" height="125.984" as="geometry" />
@@ -293,10 +293,10 @@
           <mxGeometry x="25.59" y="1496.06" width="118.11" height="291.34" as="geometry" />
         </mxCell>
         <mxCell id="m4RewTG6IQld1wpyNN1v-54" value="RESONANCE" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1043.7" y="385.82" width="118.11" height="125.984" as="geometry" />
+          <mxGeometry x="905.73" y="390.57" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="gBDPEbCBvgzt7-z5L_b_-1" value="POST&lt;br&gt;GAIN" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="905.7299999999999" y="527.56" width="118.11" height="125.984" as="geometry" />
+          <mxGeometry x="1042.6399999999999" y="527.56" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="gBDPEbCBvgzt7-z5L_b_-3" value="&lt;div&gt;OSCILOSCOPE&lt;/div&gt;/ WATERFALL&lt;br&gt;/ SPECTR" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
           <mxGeometry x="647.6299999999999" y="27.570000000000096" width="181.102" height="181.102" as="geometry" />
@@ -320,7 +320,7 @@
           <mxGeometry x="1727.3399999999995" y="1023.62" width="24.56" height="24.409399999999998" as="geometry" />
         </mxCell>
         <mxCell id="gbtdaO8nGlUaZbrBjqpk-1" value="HPF&lt;br&gt;CUTOFF" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1043.6999999999998" y="527.56" width="118.11" height="125.984" as="geometry" />
+          <mxGeometry x="1042.6399999999999" y="390.56999999999994" width="118.11" height="125.984" as="geometry" />
         </mxCell>
         <mxCell id="gbtdaO8nGlUaZbrBjqpk-2" value="L" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1578.7599999999993" y="818.89" width="24.56" height="24.409399999999998" as="geometry" />
@@ -460,7 +460,7 @@
         <mxCell id="vXxy1PWi-aHoiebXrMiE-2" value="OSCs&lt;br&gt;EXT&lt;br&gt;OSC+EXT" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="30.120000000000005" y="609.7" width="82.67699999999999" height="125.98" as="geometry" />
         </mxCell>
-        <mxCell id="Ng53AkBbXSc7U4gitRgN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="m4RewTG6IQld1wpyNN1v-3" target="xokh4Ez91sBqfJbft43O-6">
+        <mxCell id="Ng53AkBbXSc7U4gitRgN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="m4RewTG6IQld1wpyNN1v-3" target="xokh4Ez91sBqfJbft43O-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m4RewTG6IQld1wpyNN1v-3" value="&lt;div&gt;LFM&lt;/div&gt;&lt;div&gt;FM&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
@@ -472,7 +472,7 @@
             <mxPoint x="419.11999999999995" y="76.28" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ng53AkBbXSc7U4gitRgN-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="8wi24MFOJ5Ws7uHCbMtL-1" target="m4RewTG6IQld1wpyNN1v-6">
+        <mxCell id="Ng53AkBbXSc7U4gitRgN-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="8wi24MFOJ5Ws7uHCbMtL-1" target="m4RewTG6IQld1wpyNN1v-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8wi24MFOJ5Ws7uHCbMtL-1" value="&lt;div&gt;1&amp;gt;2&lt;/div&gt;&lt;div&gt;&amp;nbsp;2&amp;gt;1&lt;/div&gt;&lt;div&gt;off&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.1810999999999998;fontSize=18;" parent="1" vertex="1">
